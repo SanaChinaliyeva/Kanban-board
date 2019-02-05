@@ -1,0 +1,15 @@
+.col-title {
+  border: 1px solid #eee;
+  border-radius: 5px;
+  text-align: center;
+  padding: 10px;
+}
+.todo-title{
+  background: #ffb30096;
+}
+.progress-title{
+  background: #29b6f699;
+}
+.done-title{
+  background: #8bc34ac9;
+}
